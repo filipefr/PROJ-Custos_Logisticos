@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Desenvolvimento de dashboard  de custos logísticos offshore para a produção de óleo e gás
+# Desenvolvimento de projeto de BI de custos logísticos offshore para a produção de óleo e gás
 
 #### Aluno: [Filipe Faria Rodrigues](https://github.com/filipefr).
 #### Orientador: [Anderson Nascimento](https://github.com/insightds).
